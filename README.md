@@ -1,4 +1,5 @@
-### Hi, 你好!  
+## <center> Hi,  你好! </center>
+
 Hi, I’m a master student.  
 🔭 Currently studying at Lomonosov Moscow State University, majoring in quantum information.  
 😄 A novice entering the quantum field  
