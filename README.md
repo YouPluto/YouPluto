@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, 你好!
+Hi, I’m a master student.
+🔭 Currently studying at Lomonosov Moscow State University, majoring in quantum information.
+😄 A novice entering the quantum field
+🌱 Interested in Quantum Neural Networks, Computer Vision.
+💬 Devoting in Quantum Information and Data Science.
+
 
 <!--
 **YouPluto/YouPluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
